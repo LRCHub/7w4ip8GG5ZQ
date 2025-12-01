@@ -1,0 +1,44 @@
+# Ciao sono Vale – NOSTALG!A
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.55] Hai cose strane dentro alla mente
+[00:16.53] Le tue mani sono solo altre sigarette
+[00:19.77] Che fumerò in un domani
+[00:21.57] Dimmi che mi ami, sì
+[00:23.65] Non abbiamo più un domani
+[00:25.06] Hai perso tempo a perdermi
+[00:38.06] 
+[00:27.46] Sapere che prendi le scelte più giuste per?
+[00:31.15] Bello saper di te, bello sapere che
+[00:34.66] Ho deciso che cambio, mi prenderò cura di te
+[00:38.32] E giuro su tutto, riprenderò il mondo, wuoh
+[00:59.82] 
+[00:43.29] Non sai che fai
+[00:46.73] Non siamo più nulla, siamo estranee
+[00:50.25] Non sai cos'ho
+[00:53.84] Ho scritto il tuo nome tra le pagine ed è vuoto
+[01:17.34] 
+[00:57.18] Da quando sei via non sento noia, solo nostalgia
+[01:02.73] Mi trema il cuore, pensiero, la scia
+[01:06.32] L'odore del mare dice: "Nostalgia", eh
+[01:25.32] 
+[01:11.94] Buchi nei jeans, cuore in repeat, vivo alla street
+[01:15.40] Paura di fondo, ma correvo via da chi?
+[01:18.58] Tu mi hai richiamato in repeat
+[01:21.07] Ed io avevo bisogno di peace
+[01:35.07] 
+[01:24.02] Ma se vuoi prendimi, io ti donerò
+[01:28.13] Chiedimi e quello che saprò
+[01:32.32] Io te lo dirò, io te lo dirò
+[01:46.32] 
+[01:39.71] Non sai che fai
+[01:43.29] Non siamo più nulla, siamo estranee
+[01:46.71] Non sai cos'ho
+[01:50.33] Ho scritto il tuo nome tra le pagine ed è vuoto
+[02:13.83] 
+[01:53.67] Da quando sei via non sento noia, solo nostalgia
+[01:59.45] Mi trema il cuore, pensiero, la scia
+[02:02.82] L'odore del mare dice: "Nostalgia", eh
+```
