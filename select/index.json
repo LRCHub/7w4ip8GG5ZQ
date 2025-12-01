@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "NOSTALG!A",
+  "base_artist": "Ciao sono Vale",
+  "createdAt": "2025-12-01T05:18:35.054417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NOSTALG!A",
+      "artist": "Ciao sono Vale",
+      "has_synced": true,
+      "path": "select/01_NOSTALG!A_Ciao_sono_Vale.lrc"
+    }
+  ]
+}
